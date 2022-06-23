@@ -24,7 +24,7 @@ for (p in 1:1000) {
 
 
 ## Key inputs ##
-n<- 170 #Using N=170 to distribute the amount of patients evening between both treatments.
+n<- 140 #Using N=170 to distribute the amount of patients evening between both treatments.
 ## pmedian<- 2 #Primary Median Lifespan
 ## mmedian<- 2 #Metastatic Median Lifespan
 ## plambda<-log(2)/pmedian #finds lambda for which median of exp curve would be pmedian
